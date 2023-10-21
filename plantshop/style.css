@@ -1,0 +1,75 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+html,body{
+    width: 100%;
+    height: 100%;
+}
+#main{
+    width: 100%;
+    height: 100%;
+    background-color: rgb(145, 177, 158);
+    overflow: hidden;
+}
+#nav{
+    width: 100%;
+    height: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+#nav h1{
+    margin-left: 40px;
+    text-transform: uppercase;
+    font-size: 30px;
+    color: #f0f0f0;
+}
+#nav #links{
+    display: flex;
+    gap: 40px;
+    margin-right: 40px;
+    text-transform: uppercase;
+}
+#links a{
+    text-decoration: none;
+    color: #f3f3f3;
+}
+#elems{
+    width: 100%;
+    height: 100%;
+    display: flex;
+}
+#left{
+    position: relative;
+    width: 55%;
+    height: 100%;    
+}
+#left #relem{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: #f5f5f5;
+}
+#relem h1{
+    font-size: 45px;
+    margin-bottom: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#relem p{
+    margin-bottom: 40px;
+}
+#relem button{
+    padding: 20px 50px;
+    border: none;
+    border-radius: 50px;
+    background-color: #fff;
+    font-size: 15px;
+}
+#right{
+    width: 45%;
+    height: 100%;
+}
