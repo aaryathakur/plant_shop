@@ -1,0 +1,127 @@
+boiler plate code - wo code jo likhna must h
+< h1> -h1 tag(opening tag ) - h1 k jgh kuch bhi likha ho to wo tag bn jata h
+</h1> -h1 tag(closing tag ) 
+h1 - heading one
+attribute- 
+<sup></sup> - upar  chle jayga
+<sub></sub> - niche chale jayega
+<hr>  - line k liye
+<p></p> - paraghaph
+<br> - line break
+<b></b> - bold letter
+<i></i> - italic letter
+<ol></ol> - 
+loren -  apne ap words print honge  random
+
+<ul></ul> - point 
+<ol></ol> - number
+
+form  - form me inputs aate h 
+id ka nam kbhi repeat ni rkna h
+class ka ho skta h repeat- class ka use tb hota h jb ik se jda ko repeat krna ho
+
+
+-->> header - pahla section of website can be called header
+nav - navigation bar 
+main - puri website isi me aayegi 
+section - pages of website 
+article - wwebsite ke andr jo sub elements hoge unko 
+          article  me dal skte h 
+
+aside - side me ususally jo fixed elements hote h unke liye 
+        use hota h 
+ 
+ footer - footer banane ke liye 
+ audio - audio support dene k liye 
+ video - video 
+
+ <!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <a target="_blank" href="https//:www.google.com">
+    click to open google
+</a>
+</body>
+</html> -->
+
+<!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <img src="https://images.unsplash.com/photo-1711669670318-689b1cbfae70?w=1400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw0fHx8ZW58MHx8fHx8"
+     alt="man">
+    
+</body>
+</html> -->
+
+<!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form>
+        <label for="baba">Name</label>
+        <input id="baba" type="text" placeholder="name">
+    </form>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form>
+        <input type="text" placeholder="name">
+        <br><br>
+        <input type="email" placeholder="email">
+        <br><br>
+        <input type="password" placeholder="password">
+        <br><br>
+        <input type="checkbox">
+        <input type="radio">male
+        <input type="radio">female
+        <input type="radio">others
+        <br><br>
+        <input type="file">
+        <br><br>
+        <input type="date">
+        <br>
+        <input type="range">
+        <input type="color">
+        <br><br>
+        <input type="submit">
+    
+    </form>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p class="aarya">a</p>
+    <p>b</p>
+    <p class = "abcd">c</p>
+    <p>d</p>
+</body>
+</html> -->
