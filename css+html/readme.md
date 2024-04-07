@@ -15,3 +15,5 @@ FLEX BOX -  nature to have their children aside side
 
 y axis - main axis- justify content
 x axis - cross axis - aline items
+
+har element ke pas ek possibility hoti hai ki wo element chahe to inactve do after and before naam ki properties ko activate kr skra h
