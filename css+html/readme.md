@@ -11,3 +11,7 @@ inline elemnt - will not alow to increse widdth and height - display inline blov
 
 inline block - allow to shift in aju baju
 
+FLEX BOX -  nature to have their children aside side
+
+y axis - main axis- justify content
+x axis - cross axis - aline items
