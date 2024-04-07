@@ -18,8 +18,9 @@ p{
     width: fit-content ;
 }
 
-p::before{
+p::after{
     position: absolute;
+    left: 0;
     top: 100%;
     content: '';
     width: 100%;
