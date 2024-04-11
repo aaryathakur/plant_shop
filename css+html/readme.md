@@ -1,3 +1,31 @@
+border
+display
+position
+background
+flex
+pseudo-elements
+        ::before
+        ::after
+        ::first-line
+        ::first-letter
+        ::selection
+pseudo-clases
+        ::hover
+        ::active
+        focus
+        ::nth-child(n)
+
+
+
+
+
+
+
+
+
+
+
+
 jha bhi ik s jda element dikhe wo div h
 jha bhi rectungular shape dikhe wha bhi div h
 
