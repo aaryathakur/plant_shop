@@ -16,6 +16,21 @@ pseudo-clases
         ::nth-child(n)
 
 
+Color Names:red, green
+Hexadecimal notation: #
+RGB Functional Notation : rgb
+RGB Functional Notation : rgba
+
+aisa smjho hmari screen mainly teen colors dikha skti hai,kehna ka mtlb h screeb bani  bht sare leds se and had led teen color dikha skti h and unka combination bhi
+
+
+css mai har color ki min value 0 h and max 255
+r- 255
+g- 255
+b- 255
+ tino color full - white
+tino low - back(0)
+
 
 
 
